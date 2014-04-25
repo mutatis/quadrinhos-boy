@@ -48,7 +48,7 @@ public class PlayerSettings : MonoBehaviour {
 				rigidbody2D.AddForce (Vector2.right * h * moveForce);
 					}*/
 			
-				transform.Translate ((h / 15), 0, 0);
+				transform.Translate ((h / 10), 0, 0);
 			}
 		
 	}

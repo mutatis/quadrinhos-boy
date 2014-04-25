@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 1936cc6cd06503d4399af9c65fbb69f1
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: heroYeah_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 379
+        width: 205
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: heroYeah_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 356
+        width: 225
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: heroYeah_2
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 345
+        width: 229
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: heroYeah_3
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 338
+        width: 194
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: heroYeah_4
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 328
+        width: 200
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: heroYeah_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 202
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: heroYeah_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 13
+        width: 231
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: heroYeah_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 19
+        width: 238
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: heroYeah_8
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 211
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: heroYeah_9
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 11
+        width: 204
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
