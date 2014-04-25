@@ -1,11 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PlayerSettings.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Tutorial.cs">
     <Files>
+      <File FileName="HQs Boy.sln" Line="1" Column="1" />
+      <File FileName="Assets\Script\História.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\Virar.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\Andando.cs" Line="1" Column="1" />
       <File FileName="Assets\Script\Acelerometro.js" Line="1" Column="1" />
-      <File FileName="Assets\Script\PlayerSettings.cs" Line="51" Column="33" />
+      <File FileName="Assets\Script\PlayerSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Tutorial.cs" Line="18" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

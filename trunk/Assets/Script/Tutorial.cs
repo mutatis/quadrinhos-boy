@@ -15,6 +15,6 @@ public class Tutorial : MonoBehaviour {
 
 	void OnMouseDown()
 	{
-		Application.LoadLevel ("Game");
+		Application.LoadLevel ("Boss");
 	}
 }
