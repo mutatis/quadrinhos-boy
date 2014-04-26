@@ -18,12 +18,16 @@ public class PlayerSettings : MonoBehaviour {
 	bool segura;
 	
 	public static PlayerSettings instance;
-	
+
+	Animator animator;
+
 	void Awake(){
 		instance = this;	
 	}
 
-	void Start () {
+	void Start () 
+	{
+		animator = GetComponent<Animator> ();
 	}
 	
 	void Update () {
@@ -49,8 +53,15 @@ public class PlayerSettings : MonoBehaviour {
 					}*/
 			
 				transform.Translate ((h / 10), 0, 0);
+			if(h > 0.03f || h < -0.03f)
+			{
+				animator.SetTrigger ("Player");
 			}
-		
+			else
+			{
+				animator.SetTrigger ("parado");
+			}
+		}		
 	}
 	
 	void Pulo (){
