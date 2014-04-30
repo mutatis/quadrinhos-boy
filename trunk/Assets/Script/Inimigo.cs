@@ -19,7 +19,9 @@ public class Inimigo : MonoBehaviour {
 		
 		if (transform.position.x > limiteDireita || transform.position.x < limiteEsquerda) {
 			velocidade *= -1;
-			Debug.Log ("asasas");
+			Vector3 theScale = transform.localScale;
+			theScale.x *= -1;
+			transform.localScale = theScale;
 		}
 	}
 

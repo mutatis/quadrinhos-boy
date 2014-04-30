@@ -55,6 +55,7 @@
      <Compile Include="Assets\Script\Frase3.cs" />
      <Compile Include="Assets\Script\GaiolaAberta.cs" />
      <Compile Include="Assets\Script\GaiolaFechada.cs" />
+     <Compile Include="Assets\Script\Game_Over.cs" />
      <Compile Include="Assets\Script\História.cs" />
      <Compile Include="Assets\Script\Inimigo.cs" />
      <Compile Include="Assets\Script\Life.cs" />
