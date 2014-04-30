@@ -70,6 +70,7 @@
      <Compile Include="Assets\Script\Tutorial.cs" />
      <Compile Include="Assets\Script\Virar.cs" />
      <Compile Include="Assets\Script\VirarAcelerometro.cs" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

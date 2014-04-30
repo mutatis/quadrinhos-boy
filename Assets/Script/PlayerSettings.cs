@@ -53,14 +53,14 @@ public class PlayerSettings : MonoBehaviour {
 					}*/
 			
 				transform.Translate ((h / 10), 0, 0);
-			if(h > 0.03f || h < -0.03f)
+			/*if(h > 0.03f || h < -0.03f)
 			{
 				animator.SetTrigger ("Player");
 			}
 			else
 			{
 				animator.SetTrigger ("parado");
-			}
+			}*/
 		}		
 	}
 	
