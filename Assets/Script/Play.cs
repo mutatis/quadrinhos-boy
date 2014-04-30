@@ -13,6 +13,6 @@ public class Play : MonoBehaviour {
 
 	void OnMouseDown()
 	{
-		Application.LoadLevel ("Historia");
+		Application.LoadLevel ("Tutorial");
 	}
 }
