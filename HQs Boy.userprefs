@@ -1,12 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PlayerSettings.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Win.cs">
     <Files>
-      <File FileName="Assets\Script\Inimigo.cs" Line="24" Column="36" />
-      <File FileName="Assets\Script\Virar.cs" Line="1" Column="1" />
-      <File FileName="Assets\Script\PlayerSettings.cs" Line="7" Column="32" />
-      <File FileName="Assets\Script\Play.cs" Line="16" Column="38" />
-      <File FileName="Assets\Script\Game_Over.cs" Line="18" Column="31" />
+      <File FileName="Assets\Script\Win.cs" Line="21" Column="34" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
